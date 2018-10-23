@@ -34,6 +34,7 @@ public class Input {
           stringArr[4] = scan.nextLine();
           
           out.printf("%s %s %s %s %s", stringArr[0], stringArr[1], stringArr[2], stringArr[3], stringArr[4]);
+          System.out.println("ds");
           
           
           
